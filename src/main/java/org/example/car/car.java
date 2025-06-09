@@ -13,5 +13,9 @@ public class car {
         this.VIN = VIN;
 
     }
+
+    public getVIN(){
+        return VIN;
+    }
 }
 
